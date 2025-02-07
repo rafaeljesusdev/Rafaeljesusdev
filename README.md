@@ -16,9 +16,9 @@ Bem-vindo ao meu perfil, prazer! 👋
 ## Github status:
 
 <div>
-<a href="https://github.com/Rafaeljesus704">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaeljesus704&layout=compact&langs_count=7&theme=outrun"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafaeljesus704&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Rafaeljesusdev">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaeljesusdev&layout=compact&langs_count=7&theme=outrun"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafaeljesusdev&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Contatos:
