@@ -18,7 +18,7 @@ Bem-vindo ao meu perfil, prazer! 👋
 <div>
 <a href="https://github.com/Rafaeljesusdev">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaeljesusdev&layout=compact&langs_count=7&theme=outrun"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafaeljesusdev&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeljesusdev&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Contatos:
